@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'm Mirlla Lino
+
+- :heart_eyes: I really like to learn
+- 🌱 I’m currently studying programming languages for front-end
+
+## Connect with me
+
 
 <!--
 **mirllalino/mirllalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
