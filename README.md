@@ -2,6 +2,12 @@
 
 My name is Mirlla Lino, I'm from Brazil 🇧🇷 , I'm a I.T student and I'm learning programming languages for front-end
 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirllalino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirllalino&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirllalino//)](https:///www.linkedin.com/in/mirllalino//)
 
  ![Snake animation](https://github.com/mirllalino/mirllalino/blob/output/github-contribution-grid-snake.svg)
