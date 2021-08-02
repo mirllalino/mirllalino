@@ -16,9 +16,8 @@ My name is Mirlla Lino, I'm from Brazil 🇧🇷 , I'm a I.T student and I'm lea
   </div>
   
   ##
-<div>
-  <a href="https://https://www.linkedin.com/in/mirllalino/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirllalino//)](https:///www.linkedin.com/in/mirllalino//)
   
   
  ![Snake animation](https://github.com/mirllalino/mirllalino/blob/output/github-contribution-grid-snake.svg)
