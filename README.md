@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mirlla Lino, I'm from Brazil 🇧🇷 , I'm a I.T student and I'm learning programming languages for front-end
+My name is Mirlla Lino, I'm from Brazil 🇧🇷 , I'm a I.T student.
 
 <div>
   <a href="https://github.com/mirllalino">
